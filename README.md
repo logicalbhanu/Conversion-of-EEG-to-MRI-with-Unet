@@ -1,1 +1,1 @@
-This repo contain the code for changing the data of the EEG to its corresponding MRI.
+This repo contain the code for conversion of the EEG data to its corresponding MRI.
