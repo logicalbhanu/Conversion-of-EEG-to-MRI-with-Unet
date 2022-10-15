@@ -1,3 +1,5 @@
+### EEG to MRI via UNET
+
 This repo contain the code for conversion of the EEG data to its corresponding MRI via Using Unet, it shows that Unet can be used for this purpouse but some modification needs to be done in the architecture of the Unet to get better results.
 
 
