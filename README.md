@@ -8,7 +8,7 @@ This repo contain the code for conversion of the EEG data to its corresponding M
 4. Create folder EEG_to_fMRI/data_set/fMRI and extract the fMRI zip inside it, now copy the content from the extracted folder and past the content to its parent folder i.e. at path EEG_to_fMRI/data_set/fMRI. After that remove the fMRI folder i.e. the one we get after extraction of fMRI zip.
 5. The python notebook should be at same folder in which EEG_to_fMRI is, i.e. parent folder of both should be same.
 6. Finally the directory structure of EEG_to_fMRI is like below :
-
+```
 EEG_to_fMRI/
 └── data_set
     ├── EEG1
@@ -206,4 +206,4 @@ EEG_to_fMRI/
             ├── 2_fl3D_t1_sag_fun_defaced.nii.gz
             └── 3_nw_mepi_rest_with_cross.nii.gz
 
-
+```
